@@ -1,0 +1,12 @@
+library('pagination');
+
+3 things u must know for pagination
+
+->URL
+->Per_page
+->total rows in db
+
+initalize($config);
+
+URI segment(library)
+$this->uri->segment(3)
